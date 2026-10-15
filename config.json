@@ -1,0 +1,13 @@
+{
+  "app_name": "Baykal VPN",
+  "configs": [
+    "https://baykal.shop:2096/ksbqjsjzqnnl9c9q/8q3ngxgyp2140rjp"
+  ],
+  "auto_connect": true,
+  "remote_dns": "https://1.1.1",
+  "local_dns": "https://yandex.net",
+  "routing_presets": "Global Bypass Local",
+  "enable_routing": true,
+  "theme": "dark",
+  "disable_asset_edit": true
+}
